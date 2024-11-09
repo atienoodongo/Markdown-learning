@@ -25,5 +25,5 @@ ie.
 2. perry 2
 3. perry 3
     
-|--perry-----|-atieno-------|--odongo-----
-|--perry-----|-atieno-------|--odongo-----
+
+iam still stuck at tables
